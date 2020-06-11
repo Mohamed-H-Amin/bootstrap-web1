@@ -1,0 +1,30 @@
+body{
+    font-family: 'Arvo' , serif;
+    height: 8000px;
+}
+.height{
+    height: 100vh;
+}
+.underline_title{
+    height: 6px;
+    width: 220px;
+    margin: auto;
+    border-radius: 5px;
+}
+.height-80{
+    height: 80vh;
+}
+.about-image{
+    background: url(../img/covid-19.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Image_background, #progress{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../img/slide-2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
